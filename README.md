@@ -7,7 +7,7 @@
 * Aplicaciones que vamos a usar
 * Ejemplos de situaciones a las que se puedan enfrentar lxs periodistas
 * ¿De qué debemos cuidarnos?
-* Aspéctos legales y éticos (chequear datos, cuidar las fuentes y personas en peligro)
+* Aspectos legales y éticos (chequear datos, cuidar las fuentes y personas en peligro)
 * Modelos de amenaza (Threat model), como crear uno antes de empezar la investigación
 
 ### Día 2 - Aplicaciones
